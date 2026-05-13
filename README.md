@@ -8,9 +8,9 @@ A Context-Free Grammar (CFG) parser that checks whether a string is accepted or 
 
 | Member | Branch | Responsibility |
 |--------|--------|----------------|
-| Member 1 | `input-module` | Grammar input & validation |
-| Member 2 | `parsing-engine` | Parsing engine & derivation |
-| Member 3 | `visualization` | Parse tree & output visualization |
+| Yomna Medhat | `input-module` | Grammar input & validation |
+| Farah Awadalla | `parsing-engine` | Parsing engine & derivation |
+| Taghreed Oyoun | `visualization` | Parse tree & output visualization |
 
 ---
 
